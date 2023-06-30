@@ -12,7 +12,7 @@ public class Tokenizing_Test {
         ArrayList<String> _CourseName = new ArrayList<>();
         ArrayList<String> _CourseTime = new ArrayList<>();
         ArrayList<String> _CourseDate = new ArrayList<>();
-        ArrayList<String> _CourseDay = new ArrayList<>();
+        ArrayList<String> _CourseDay   = new ArrayList<>();
         ArrayList<String> _CourseRooms = new ArrayList<>();
 
         String str =
