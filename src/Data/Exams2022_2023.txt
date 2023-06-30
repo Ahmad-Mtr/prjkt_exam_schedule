@@ -1,0 +1,286 @@
+CS415	Systems Programming	08:30-10:30	21-01-2023 , Sat	M424+M426
+ACC598B	Special Topics in Accounting	08:30-10:30	21-01-2023 , Sat	B018
+CEE331	Surveying	08:30-10:30	21-01-2023 , Sat	M226
+PCE343	Pharmaceutical Technology- Liquid Forms	08:30-10:30	21-01-2023 , Sat	M427+M428
+MGT598B	Special Topics in Management	08:30-10:30	21-01-2023 , Sat	B019
+IE529	Special Topics in Manufacturing and Engineering Materials	08:30-10:30	21-01-2023 , Sat	C104
+MGT598A	Special Topics in Management	08:30-10:30	21-01-2023 , Sat	B020
+ENE516	Smart-Grid Power Systems	08:30-10:30	21-01-2023 , Sat	C107
+ENE311	Electrical Machines	08:30-10:30	21-01-2023 , Sat	C108+C127+C129+C206+C207
+TME598	Special Topics in Mechanical Engineering	08:30-10:30	21-01-2023 , Sat	C208
+SE301	Social Entrepreneurship and Enterprises	08:30-10:30	21-01-2023 , Sat	H101+H102+H103
+PE101	Sports and Health	08:30-10:30	21-01-2023 , Sat	H104+H105+H106+H201+H202+H203+H204+H205+H206+H301+H302+H303
+CHEM103	General Chemistry I	11:00:13:00	21-01-2023 , Sat	building  H
+MECH0213	Mechanics of Materials	11:00:13:00	21-01-2023 , Sat	C306+C307+C309
+CEE532	Pavement Design	11:00:13:00	21-01-2023 , Sat	M424+M426
+SL320	Academic Research Techniques (EN-GE)	11:00:13:00	21-01-2023 , Sat	G104+G106+G109
+MGT322	Consumer Behaviour	11:00:13:00	21-01-2023 , Sat	B018
+GERL101B1	German I B1- Track	14:00-16:00	21-01-2023 , Sat	BUILDING H + C + G
+MECH0216	Statics and Strength of Materials	14:00-16:00	21-01-2023 , Sat	M424+M426+M427+M428
+TME523	Internal Combustion Engines	14:00-16:00	21-01-2023 , Sat	B018
+CS223	Data Structures	14:00-16:00	21-01-2023 , Sat	B019+B020+B021
+MGT414	International Business and Globalization	14:00-16:00	21-01-2023 , Sat	B120
+PCE511	Unit Operations and Industrial Safety	14:00-16:00	21-01-2023 , Sat	B121
+ENE432	Power Plants Engineering	14:00-16:00	21-01-2023 , Sat	B122
+ECE333	Electromagnetics	14:00-16:00	21-01-2023 , Sat	B123
+ECE331	Electromagnetics I	14:00-16:00	21-01-2023 , Sat	B204
+PCE221	Thermodynamics for Pharmaceutical and Chemical Engineering	08:30-10:30	22-01-2023 , Sun	C104+C107
+GLS100	German Language Skills: Speaking and Listening	08:30-10:30	22-01-2023 , Sun	G104
+TME596	Special Topics I	08:30-10:30	22-01-2023 , Sun	C108
+MECH0211	Fundamentals of Mechanical Design	08:30-10:30	22-01-2023 , Sun	C127
+BM5633	Artificial Organs	08:30-10:30	22-01-2023 , Sun	C129
+BM563	Artificial Organs and Limbs	08:30-10:30	22-01-2023 , Sun	C206
+TRA212	Arabic Rhetoric and Semantics	08:30-10:30	22-01-2023 , Sun	G106
+CS116	Computing Fundamentals	08:30-10:30	22-01-2023 , Sun	BUILDING  H
+ACC332	Management Accounting	08:30-10:30	22-01-2023 , Sun	B018+B019+B020+B021
+CE331	Signals and Systems	08:30-10:30	22-01-2023 , Sun	C207+C208+C210+C211
+GERL202B1	German IV B1-TRACK	11:00:13:00	22-01-2023 , Sun	BUILDING H
+DES101	Art's Appreciation	14:00-16:00	22-01-2023 , Sun	Othman bdair
+ME554	Programmable Logic Controllers	14:00-16:00	22-01-2023 , Sun	C104+C107
+EI101	Leadership and Emotional Intelligence	14:00-16:00	22-01-2023 , Sun	H101+H102+H103+H104+H105+H106+H201
+IE583	Supply Chain Management	08:30-10:30	23-01-2023 , Mon	C104+C107+C108
+BM242	Biofluid Mechanics and Transport Phenomena	08:30-10:30	23-01-2023 , Mon	M424+M426
+LOGS213	Operations Management	08:30-10:30	23-01-2023 , Mon	B020+B021
+GLS303	German Language Skills:  Business German and  Application Training	08:30-10:30	23-01-2023 , Mon	G104
+LOGS460	Contemporary Issues in Logistics	08:30-10:30	23-01-2023 , Mon	B316+B018+B019
+IC101	Intercultural Communications	08:30-10:30	23-01-2023 , Mon	H101+H102+H103+H104+H105
+IE0121	Probability and Statistics	11:00:13:00	23-01-2023 , Mon	BUILDING C
+MGT226	Fundamentals of Macroeconomics	11:00:13:00	23-01-2023 , Mon	B018+B019
+ECE314	Probabilistic Methods in Electrical and Communication Engineering	14:00-16:00	23-01-2023 , Mon	M424+M426
+ECE315	Random Variables and Stochastic Processes	14:00-16:00	23-01-2023 , Mon	M424+M426
+IE325	Manufacturing Processes	14:00-16:00	23-01-2023 , Mon	C104+C107+C108+C127+C129+C206+C207+C208
+IE0344	Manufacturing Processes	14:00-16:00	23-01-2023 , Mon	C104+C107+C108+C127+C129+C206+C207+C208
+ARB100	Arabic	14:00-16:00	23-01-2023 , Mon	BIULDING H + B
+TME331	Theory of Machines	08:30-10:30	24-01-2023 , Tue	C104+C107+C108+C127
+MECH0331	Theory of Machines	08:30-10:30	24-01-2023 , Tue	C104+C107+C108+C127
+CE477	Machine Learning	08:30-10:30	24-01-2023 , Tue	M424+M426
+ACC251	Fundamentals of Finance	08:30-10:30	24-01-2023 , Tue	C206+C207+C208+C210
+ACC101	Principles of Accounting I	08:30-10:30	24-01-2023 , Tue	B316+B018+B019+B020+B021+B120+B121+B122+B123+B204+B219
+PHYS103	Physics I	08:30-10:30	24-01-2023 , Tue	BIULDING H
+ENGL099	English II	11:00:13:00	24-01-2023 , Tue	BIULDING H + C +B
+ENGL202	English VI	11:00:13:00	24-01-2023 , Tue	BIULDING H + C +B
+ENGL201	English V	11:00:13:00	24-01-2023 , Tue	BIULDING H + C +B
+ENGL102	English IV	11:00:13:00	24-01-2023 , Tue	BIULDING H + C +B
+ENGL101	English III	11:00:13:00	24-01-2023 , Tue	BIULDING H + C +B
+CS214	Object Oriented Programming	14:00-16:00	24-01-2023 , Tue	M424+M426+M427
+IE3315	Operations Research	14:00-16:00	24-01-2023 , Tue	C104+C107+C108+C127+C129+C206+C207+C208+C210
+IE0231	Operations Research	14:00-16:00	24-01-2023 , Tue	C104+C107+C108+C127+C129+C206+C207+C208+C210
+ME0344	Control Systems I	14:00-16:00	24-01-2023 , Tue	C211+C231+C232+C302+C305
+ME344	Control Systems 1	14:00-16:00	24-01-2023 , Tue	C211+C231+C232+C302+C305
+ME551	Robotics	08:30-10:30	25-01-2023 , Wed	C104
+TRA323	Interpreting I (EN-AR-GE)	08:30-10:30	25-01-2023 , Wed	G104
+ACC455	Islamic Finance and Accounting	08:30-10:30	25-01-2023 , Wed	B018+B019
+GEBC341	Overview: Politics and Institutions (E/G)	08:30-10:30	25-01-2023 , Wed	G106
+SL111	Introduction to  Linguistics (EN)	08:30-10:30	25-01-2023 , Wed	G109+G110
+CEE541	Foundation Engineering	08:30-10:30	25-01-2023 , Wed	M226
+CEE202	Engineering Geology	08:30-10:30	25-01-2023 , Wed	M328
+CEE323	Reinforced Concrete ( 1 )	08:30-10:30	25-01-2023 , Wed	M424
+ENE433	Solar Energy I	08:30-10:30	25-01-2023 , Wed	C107+C108
+TRA220	General Translation I (EN-AREN)	08:30-10:30	25-01-2023 , Wed	E002+E003
+CS254	Visual Programming	08:30-10:30	25-01-2023 , Wed	M426+M427+M428
+LOGS417	Retail Logistics	08:30-10:30	25-01-2023 , Wed	B020+B021
+PHYS104	physics II	08:30-10:30	25-01-2023 , Wed	H101+H102+H103
+PCE5322	Quality Assurance and Process Validation	08:30-10:30	25-01-2023 , Wed	H105+H106
+GERL201B1	German III B1-TRACK	11:00:13:00	25-01-2023 , Wed	BIULDING H
+TME553	"Reliability and Quality Control
+
+"	11:00:13:00	25-01-2023 , Wed	C104+C 107
+BM341	Biomechanics and Rehabilitation I	14:00-16:00	25-01-2023 , Wed	M424+M426+M427+M428
+MGT122	Business Statistics	14:00-16:00	25-01-2023 , Wed	B316+B018+B019+B020+B021+B120
+ME362	Sensors and Actuators	14:00-16:00	25-01-2023 , Wed	C104
+MGT328	Project Management and Planning	14:00-16:00	25-01-2023 , Wed	B121+B122+B123+B204+B219
+PCE251	Analytical Chemistry	14:00-16:00	25-01-2023 , Wed	C206+C207+C208+C210
+ECE343	Digital Electronics	14:00-16:00	25-01-2023 , Wed	C231+C232
+LOGS598B	Special Topics in Logistics	14:00-16:00	25-01-2023 , Wed	B220
+ENE321	Heat Transfer	14:00-16:00	25-01-2023 , Wed	C302+C305
+CE357	Operating Systems	08:30-10:30	26-01-2023 , Thu	M424+M426
+ACC333	Auditing I and Assurance Services	08:30-10:30	26-01-2023 , Thu	B018+B019
+CEE561	Contracts, Specification and Quantity Surveying	08:30-10:30	26-01-2023 , Thu	M226
+MGT124	Fundamentals of Marketing	08:30-10:30	26-01-2023 , Thu	B020+B021+B120+B121+B122
+ENE214	Electronics	08:30-10:30	26-01-2023 , Thu	C104+C107
+ENE312	Power Electronics	08:30-10:30	26-01-2023 , Thu	C206+C207+C208+C210
+GERS101	German I	08:30-10:30	26-01-2023 , Thu	G104+G106+G109
+ARB099	Arabic 99	08:30-10:30	26-01-2023 , Thu	H101+H102
+PCE211	Introduction to Pharmaceutical and Chemical Engineering	08:30-10:30	26-01-2023 , Thu	C302+C305+C306
+IE0312	Simulation	08:30-10:30	26-01-2023 , Thu	H201+H202+H203+H204+H205
+MGT329	E-Business and E-Commerce Management	08:30-10:30	26-01-2023 , Thu	B123
+TME515	Mechanical Vibrations	08:30-10:30	26-01-2023 , Thu	C307+C309+C310
+BM3255	Physiological Modeling and Control Systems	08:30-10:30	26-01-2023 , Thu	H301+H302+H303
+ME0346	Instrumentation & Measurements	11:00:13:00	26-01-2023 , Thu	M424
+ME346	Instrumentations and Measurements	11:00:13:00	26-01-2023 , Thu	C104+C107+108+C127+C129
+ME567	Modeling and Simulation	11:00:13:00	26-01-2023 , Thu	C206
+PCE541	Medicinal Chemistry	11:00:13:00	26-01-2023 , Thu	M427+M428
+LOGS341	Green and Reverse Logistics	11:00:13:00	26-01-2023 , Thu	B018+B019+B020
+GERL201B2	German III B2-TRACK	11:00:13:00	26-01-2023 , Thu	BIULDING H
+GERL302B2	German VI B2-TRACK	11:00:13:00	26-01-2023 , Thu	BIULDING H
+GERL102B2	German II B2-TRACK	11:00:13:00	26-01-2023 , Thu	BIULDING H
+GERL202B2	German IV B2-TRACK	11:00:13:00	26-01-2023 , Thu	BIULDING H
+TRA313	Professional Texts: Analysis and Writing (Arabic)	11:00:13:00	26-01-2023 , Thu	G104+G106+G109
+ACC338	Computerized Accounting and Accounting Information Systems	11:00:13:00	26-01-2023 , Thu	B120+B121
+CE352	Computer Networks	11:00:13:00	26-01-2023 , Thu	C207+C208
+GERL102B1	German II B1-Track	14:00-16:00	26-01-2023 , Thu	BUILDING H
+MECH0215	Dynamics	14:00-16:00	26-01-2023 , Thu	C104+C107+C108+C127
+TME214	Dynamics and Vibration	14:00-16:00	26-01-2023 , Thu	C104+C107+C108+C127
+AFL99	Arabic as a Foreign Language	08:30-10:30	28-01-2023 , Sat	G104+G106
+IE582	Facilities Layout	08:30-10:30	28-01-2023 , Sat	C104+C107
+MGT213	Research Methods for Business	08:30-10:30	28-01-2023 , Sat	B316+B018+B019
+ENE211	Electrical Circuits I	08:30-10:30	28-01-2023 , Sat	BIULDING C
+LOGS112	Operations Research in Logistics Management	11:00:13:00	28-01-2023 , Sat	B316+B018
+BM371	Numerical Methods for Engineers	11:00:13:00	28-01-2023 , Sat	BUILDING H
+IE212	Applied Statistics	14:00-16:00	28-01-2023 , Sat	C104+C107+C108
+IE0223	Applied Statistics	14:00-16:00	28-01-2023 , Sat	C104+C107+C108
+ME343	"Automatic Control Systems
+
+"	08:30-10:30	29-01-2023 , Sun	C104+C107+C108
+BM227	Bioorganic Chemistry for BM	08:30-10:30	29-01-2023 , Sun	M424+M426
+CS363	Database Management Systems	08:30-10:30	29-01-2023 , Sun	M226
+TME351	Spare Parts and Storage Management	08:30-10:30	29-01-2023 , Sun	C127+C129
+ME0348	Sensors	08:30-10:30	29-01-2023 , Sun	C206
+CEE515	Water and Wastewater Treatment Engineering	08:30-10:30	29-01-2023 , Sun	M328
+IE312	"Quality Control
+
+"	08:30-10:30	29-01-2023 , Sun	C207+C208
+PCE5333	Hazardous Waste and Risk Management	08:30-10:30	29-01-2023 , Sun	M427+M428
+BM331	Biomaterials	08:30-10:30	29-01-2023 , Sun	C210+C211
+CS482	Special Topics in Software Engineering	08:30-10:30	29-01-2023 , Sun	C231
+ACC453	Investment Analysis and Portfolio Management	08:30-10:30	29-01-2023 , Sun	B018+B019
+MECH0543	Internal Combustion Engines	08:30-10:30	29-01-2023 , Sun	C232
+CEE341	Geotechnical Engineering	08:30-10:30	29-01-2023 , Sun	C302
+CEE101	General Chemistry II	08:30-10:30	29-01-2023 , Sun	C305
+ACC434	Auditing II and Forensic Accounting	08:30-10:30	29-01-2023 , Sun	B020
+MGT412	Corporate Strategies and Policies	08:30-10:30	29-01-2023 , Sun	B121
+NE101	National Education	08:30-10:30	29-01-2023 , Sun	H101+H102+H103+H104+H105+H106+H201+H202+H203+H204+H205+H206+H301+H302
+ENE434	PV Technology	08:30-10:30	29-01-2023 , Sun	C306+C307
+TRA221	General Translation II (GE-AR)	08:30-10:30	29-01-2023 , Sun	G104
+ECE602	Special Topics in Electrical Engineering	08:30-10:30	29-01-2023 , Sun	C309
+ACC421	The Accounting Theory	11:00:13:00	29-01-2023 , Sun	B018
+MILS100	Military Science *For Jordanian Only	11:00:13:00	29-01-2023 , Sun	BIULDING H
+ACC325	International Accounting & IFRS	11:00:13:00	29-01-2023 , Sun	B019+B020
+BE302	Business Entrepreneurship	11:00:13:00	29-01-2023 , Sun	M424+M426
+CEE531	Transportation Engineering	11:00:13:00	29-01-2023 , Sun	M226
+CEE512	Air Pollution Control	11:00:13:00	29-01-2023 , Sun	M328
+LOGS323	Supplier-Customer Relationship Management	11:00:13:00	29-01-2023 , Sun	B021
+IE332	"Production Planning and Inventory Control
+
+"	11:00:13:00	29-01-2023 , Sun	C104+C107
+CEE511	Environmental Engineering	11:00:13:00	29-01-2023 , Sun	M427
+ENE527	Techno-economics of energy systems	11:00:13:00	29-01-2023 , Sun	C108
+ACC598A	Special Topics in Accounting	11:00:13:00	29-01-2023 , Sun	B120
+TME599	Special Topics in Maintenance Engineering	11:00:13:00	29-01-2023 , Sun	C127
+PCE3513	Biochemistry	11:00:13:00	29-01-2023 , Sun	C129
+IE0281	Technical Writing and Engineering Ethics	11:00:13:00	29-01-2023 , Sun	C206+C207
+ECE312	Analog Communication Systems	11:00:13:00	29-01-2023 , Sun	C208+C210
+ECE321	Communication System I	11:00:13:00	29-01-2023 , Sun	C208+C210
+ACC213	Intermediate Accounting I	11:00:13:00	29-01-2023 , Sun	B121
+CEE321	Structural analysis ( 1 )	11:00:13:00	29-01-2023 , Sun	M428
+TRA340	Translation of Scientific and Technical Texts (AR-EN-GE)	11:00:13:00	29-01-2023 , Sun	G104+G106
+ME522	Hydraulics and Pneumatics	14:00-16:00	29-01-2023 , Sun	C206+C207
+CS419	Compiler Construction	14:00-16:00	29-01-2023 , Sun	M427+M428
+MECH0541	Heating Ventilation & Air Conditioning	14:00-16:00	29-01-2023 , Sun	C104+C107
+TME522	Heating Ventilating and Air Conditioning (HVAC)	14:00-16:00	29-01-2023 , Sun	C104+C107
+MATH205	Differential Equations	08:30-10:30	30-01-2023 , Mon	BIULDING H
+ENE571	Modeling and simulation techniques of energy systems	08:30-10:30	30-01-2023 , Mon	C104+C107
+MGT211	Organizational Behavior	08:30-10:30	30-01-2023 , Mon	B018+B019+B020+B021
+IE326	Elements of Machine Design	08:30-10:30	30-01-2023 , Mon	C206+C207+C208+C210
+LOGS214	Import-Export Management	11:00:13:00	30-01-2023 , Mon	B316+B018
+CE212	Digital Systems	11:00:13:00	30-01-2023 , Mon	BUILDING C
+CE201	Computer Architecture and Organization	14:00-16:00	30-01-2023 , Mon	M427+M428
+MATH102	Calculus II	14:00-16:00	30-01-2023 , Mon	H101+H102+H103+H104+H105+H106
+IE0251	Work Measurement and Standards	14:00-16:00	30-01-2023 , Mon	C104+C107
+GERS302	German VI	14:00-16:00	30-01-2023 , Mon	G104
+ACC352	International Corporate Finance	14:00-16:00	30-01-2023 , Mon	B018+B019
+GERS201	German III	14:00-16:00	30-01-2023 , Mon	G106+G109
+GERS301	German V	14:00-16:00	30-01-2023 , Mon	E002+E003
+SFTS101	Soft Skills	14:00-16:00	30-01-2023 , Mon	H201+H202+H203+H204+H205
+LOGS316	Warehouse Management	14:00-16:00	30-01-2023 , Mon	B020+B021
+CE342	Microprocessor and Microcomputer Systems	14:00-16:00	30-01-2023 , Mon	C206+C207+C208+C210
+NEE101	National Education in English	08:30-10:30	31-01-2023 , Tue	H101+H102
+LOGS223	Procurement Management	08:30-10:30	31-01-2023 , Tue	B316+B018+B019
+GLS200	German Language Skills: Reading and Writing	08:30-10:30	31-01-2023 , Tue	G104+G106+G109
+GERL302REG	German VI B1-Regular	08:30-10:30	31-01-2023 , Tue	H103+H104+H105
+ACC211	Cost Accounting	08:30-10:30	31-01-2023 , Tue	B020+B021
+IE0361	Engineering Economics	08:30-10:30	31-01-2023 , Tue	C104+C107+C108+C127+C129
+CE355	Data Communication	11:00:13:00	31-01-2023 , Tue	M427+M428
+TRA311	Contrastive Linguistics II (AR-GE)	11:00:13:00	31-01-2023 , Tue	G104+G106
+ACC256	Financial Institutions and Insurance	11:00:13:00	31-01-2023 , Tue	B019
+IE0111	Introduction to IE	11:00:13:00	31-01-2023 , Tue	C104+C107
+MECH0223	Thermofluids	11:00:13:00	31-01-2023 , Tue	C206+C207+C208
+CEE351	Building Materials	11:00:13:00	31-01-2023 , Tue	M226
+MGT313	Knowledge Management	11:00:13:00	31-01-2023 , Tue	B020+B021
+MGT236	Management Information Systems	11:00:13:00	31-01-2023 , Tue	B120
+CEE333	Highway and Traffic Engineering	11:00:13:00	31-01-2023 , Tue	M328
+LOGS433	Logistics Enterprise Resource Planning Modules	11:00:13:00	31-01-2023 , Tue	B316+B018
+CS115	Computing Fundamentals	11:00:13:00	31-01-2023 , Tue	C302+C305+C306+C307+C309
+MECH0221	Thermodynamics	11:00:13:00	31-01-2023 , Tue	C210+C211+C231
+ENE515	Electrical Power Generation, Transmission & Distribution	11:00:13:00	31-01-2023 , Tue	C127+C129
+LOGS121	Introduction to Supply Chain Management	11:00:13:00	31-01-2023 , Tue	B121+B122+B123
+GERS102	German II	11:00:13:00	31-01-2023 , Tue	G109
+MECH0341	Power and Refrigeration Cycles	11:00:13:00	31-01-2023 , Tue	C310+C330
+PCE543	Pharmaceutical Plant Design	11:00:13:00	31-01-2023 , Tue	M424+M426
+BM5811	Health Care Management and Engineering Economy	11:00:13:00	31-01-2023 , Tue	H101+H102+H103
+IE223	Materials Science	14:00-16:00	31-01-2023 , Tue	C104+C107+C108+C127+C129+C206
+IE0242	Materials Science and engineering	14:00-16:00	31-01-2023 , Tue	C104+C107+C108+C127+C129+C206
+BM321	Medical Signal Processing	08:30-10:30	1-02-2023 , Wed	M427+M428
+BM211	Anatomy and Physiology	08:30-10:30	1-02-2023 , Wed	C104+C107+C108
+GEBC315	German for Tourism Communication	08:30-10:30	1-02-2023 , Wed	G104
+MATH099	Pre math	08:30-10:30	1-02-2023 , Wed	H101+H102+H103+H104+H105+H106+H201+H202+H203+H204+H205+H206
+ECE241	Electronics I	08:30-10:30	1-02-2023 , Wed	M424+M426
+TRA312	Translation of Literary Texts (AR-EN-GE)	08:30-10:30	1-02-2023 , Wed	G106+G109
+MGT126	Fundamentals of Microeconomics	08:30-10:30	1-02-2023 , Wed	B316+B018+B019+B020
+ACC424	Financial Statement Analysis	08:30-10:30	1-02-2023 , Wed	B120+B121
+CEE311	Hydraulics	08:30-10:30	1-02-2023 , Wed	M226
+IE562	Ergonomics	08:30-10:30	1-02-2023 , Wed	C206+C207+C208+C210
+PCE312	Separation Processes	08:30-10:30	1-02-2023 , Wed	C127+C129
+TME552	"Management of Maintenance Systems
+
+"	08:30-10:30	1-02-2023 , Wed	C231+C232
+PCE212	Principles of Chemical Engineering	08:30-10:30	1-02-2023 , Wed	C302+C305
+ME0212	Electrical Circuits and Machines	08:30-10:30	1-02-2023 , Wed	C306+C307+C309+C310
+ENE435	Wind Energy Technology	08:30-10:30	1-02-2023 , Wed	H301+H302
+ME0312	Microcontrollers and IOT	08:30-10:30	1-02-2023 , Wed	C330
+MECH0222	Fluid Mechanics	08:30-10:30	1-02-2023 , Wed	H303+H304+H305
+MGT418	Quality Management	08:30-10:30	1-02-2023 , Wed	B204+B219+B220+B221
+MATH203	Applied Mathematics For Engineers	11:00:13:00	1-02-2023 , Wed	C104+C107+C108+C127+C129+C206+C207+C208+C210+C211
+BM552	Medical Instrumentation II	11:00:13:00	1-02-2023 , Wed	C302+C305+C306
+MATH101	Calculus I	11:00:13:00	1-02-2023 , Wed	BUILDING H
+MGT416	Organizational Development & Change	11:00:13:00	1-02-2023 , Wed	C231
+ACC343	International Taxation	11:00:13:00	1-02-2023 , Wed	C232
+MGT101	Principles of Management	11:00:13:00	1-02-2023 , Wed	B316 + BUILDING B
+ACC414	Advanced Accounting	11:00:13:00	1-02-2023 , Wed	C307+C309
+GEBC311	Seminar in Linguistics (G)	11:00:13:00	1-02-2023 , Wed	G104+G106
+ACC214	Intermediate Accounting II	11:00:13:00	1-02-2023 , Wed	C310+C330
+LOGS324	Logistics Network Design	11:00:13:00	1-02-2023 , Wed	M426+M427+M428
+IE541	"Industrial Automation
+
+"	11:00:13:00	1-02-2023 , Wed	M226+M328+M424
+PCE311	Transport Phenomena	11:00:13:00	1-02-2023 , Wed	E003
+IE382	Engineering Marketing	11:00:13:00	1-02-2023 , Wed	E004+E005
+GERS202	German IV	11:00:13:00	1-02-2023 , Wed	E002
+ECE317	Linear Algebra	11:00:13:00	1-02-2023 , Wed	G109+G110
+ENE534	Low Carbon Buildings	08:30-10:30	2-02-2023 , Thu	C104+C107
+LOGS101	Introduction to Logistics	08:30-10:30	2-02-2023 , Thu	B316 + BUILDING B
+ENE437	Energy Engineering Economics	08:30-10:30	2-02-2023 , Thu	C108
+GEBC351	Debating in Business Scenarios (E)	08:30-10:30	2-02-2023 , Thu	G104+G106
+BM2021	Introduction to Biomedical Engineering	08:30-10:30	2-02-2023 , Thu	M424+M426
+ENE212	Electrical Circuits II	08:30-10:30	2-02-2023 , Thu	C206+C207
+LOGS315	Inventory Management	08:30-10:30	2-02-2023 , Thu	C208+C210+C211
+BIDA110	Business Intelligence (BI)	11:00:13:00	2-02-2023 , Thu	B316+B018+B019+B020+B021+B120+B121
+ACC102	Principles of Accounting II	11:00:13:00	2-02-2023 , Thu	B122
+GEBC153	Grammar in Use and Speaking Skills	11:00:13:00	2-02-2023 , Thu	G104
+BM105	Engineering Drawing for BM	11:00:13:00	2-02-2023 , Thu	M424-+M426
+LOGS446	Humanitarian Logistics	11:00:13:00	2-02-2023 , Thu	B204+B219+B220+B221
+TME332	Machine Design	11:00:13:00	2-02-2023 , Thu	C104
+CS222	Theory Of Algorithms	11:00:13:00	2-02-2023 , Thu	C107+C108
+CS201	Discrete Structures	11:00:13:00	2-02-2023 , Thu	C206+C207
+IE0324	Quality Engineering	11:00:13:00	2-02-2023 , Thu	C127+C129
+TRA211	English Syntax and Morphology	11:00:13:00	2-02-2023 , Thu	G106+G109
+BM5922	Selected Topics in Biomedical Engineering	11:00:13:00	2-02-2023 , Thu	M427+M428
+BIO111	Human Biology	11:00:13:00	2-02-2023 , Thu	C208+C207+C211+C231+C232
+ECE541	Electronic Communication Circuits	11:00:13:00	2-02-2023 , Thu	C302
+MGT314	Human Resources Management	11:00:13:00	2-02-2023 , Thu	C305+C306
+MGT315	Business Law	11:00:13:00	2-02-2023 , Thu	C307+C309
+PCE341	Pharmaceutical Organic Chemistry	11:00:13:00	2-02-2023 , Thu	C310+C330
+CEE521	Reinforced Concrete ( 2 )	11:00:13:00	2-02-2023 , Thu	H101+H102
+LOGS215	Transportation and Distribution Management	11:00:13:00	2-02-2023 , Thu	H103+H104+H105+H106
+CEE201	Statics	11:00:13:00	2-02-2023 , Thu	H201+H202+H203
+CS332	Computer Graphics	11:00:13:00	2-02-2023 , Thu	H204+H205
