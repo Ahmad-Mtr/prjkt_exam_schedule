@@ -6,8 +6,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class MainPage implements ActionListener {
+    private ExamTokenizer objkt = new ExamTokenizer();
     private JFrame frame;
-    private JPanel panel, x,x1;
+    private JPanel panel, x, x1;
     private JLabel L_CourseCode, L_CourseName;
     private JTextField TF_CourseCode, TF_CourseName;
     private JButton FindInfo, ShowAllCourses;
@@ -31,8 +32,8 @@ public class MainPage implements ActionListener {
 
         panel.setLayout(new GridLayout(6, 2));
 
-        x.setLayout(new GridLayout(4,1));
-        x1.setLayout(new GridLayout(1,2));
+        x.setLayout(new GridLayout(4, 1));
+        x1.setLayout(new GridLayout(1, 2));
         x.add(L_CourseCode);
         x.add(TF_CourseCode);
         x.add(L_CourseName);
@@ -44,9 +45,6 @@ public class MainPage implements ActionListener {
         panel.add(x);
         panel.add(c1);
         panel.add(x1);
-
-
-
 
 
         frame.getContentPane().add(panel);
@@ -63,13 +61,23 @@ public class MainPage implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
+        objkt.read();
         if (e.getSource() == FindInfo) {
-            /*if (checkpass()){
-                2ndpage() new;
-                ^ make();
-            }*/
-        }
-        else if (e.getSource() == ShowAllCourses){
+            String TF_Code = TF_CourseCode.getText(), TF_Name = TF_CourseName.getText();
+            boolean isChecked = c1.isSelected();
+
+
+            if (isChecked) {    //Multiple Courses
+                // Analyze
+                /*look code || Name*/
+
+            } else {            // Single Course
+                /*look code || Name*/
+                objkt.find(TF_Code,TF_Name);
+
+
+            }
+        } else if (e.getSource() == ShowAllCourses) {
             // JOptionPane.showMessageDialog(frame, printCourses());    // try in a form
         }
     }
