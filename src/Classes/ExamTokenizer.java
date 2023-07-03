@@ -23,6 +23,32 @@ public class ExamTokenizer {
     private String str = "";
     private final String delim = "\n\t,";
 
+    public void getTokens(String TF_Code, String TF_Name) {
+        String str1 = TF_Code, str2 = TF_Name;
+        String delimeter = ",";
+        ArrayList<String> _Codes = new ArrayList<>();
+        ArrayList<String> _Names = new ArrayList<>();
+        StringTokenizer Tokenizer1 = new StringTokenizer(str1, delimeter);
+        StringTokenizer Tokenizer2 = new StringTokenizer(str2, delimeter);
+
+        while (Tokenizer1.hasMoreTokens()) {
+            String token1 = Tokenizer1.nextToken();
+            _Codes.add(token1);
+        }
+        while (Tokenizer2.hasMoreTokens()) {
+            String token2 = Tokenizer2.nextToken();
+            _Names.add(token2);
+        }
+        ArrayList<Integer> inndices = lookfor(_Codes, _Names);
+        printmulti(inndices);
+    }
+
+    public ArrayList<Integer> lookfor(ArrayList<String> cdz, ArrayList<String> nmz) {
+        ArrayList<Integer> Indices = new ArrayList<>();
+
+        return Indices;
+    }
+
     public boolean find(String Code, String Name) {
         boolean isFound = false;
         int index = -1;
@@ -38,7 +64,7 @@ public class ExamTokenizer {
 
     public int searchCode(String Target) {
         int isThere = -1;
-        String curVal = "";
+        String curVal;
         for (int i = 0; i < _CourseCode.size(); i++) {
             curVal = _CourseCode.get(i);
             if (containsIgnoreCase(curVal, Target) && (Target.length() > 1)) {
@@ -52,7 +78,7 @@ public class ExamTokenizer {
 
     public boolean searchName(String Target, int i_CCode) {
         boolean isThere = false;
-        String curVal = "";
+        String curVal;
         for (int i = 0; i < _CourseName.size(); i++) {
             curVal = _CourseName.get(i);
             if (containsIgnoreCase(curVal, Target) && (Target.length() > 1)) {
@@ -167,10 +193,12 @@ public class ExamTokenizer {
     public void printSingle(int index) {
         JFrame fr = new JFrame("Details");
 
-        fr.setSize(600, 300);
+        fr.setSize(750, 300);
         JTextArea str = new JTextArea();
-        str.setSize(750,150);
-        str.setFont(new Font("Arial",Font.TRUETYPE_FONT,15));
+        str.setSize(750, 150);
+        str.setFont(new Font("Arial", Font.TRUETYPE_FONT, 15));
+        str.setForeground(Color.GREEN);
+        str.setBackground(Color.DARK_GRAY);
         fr.getContentPane().add(str);
 
         List<List<String>> rows = new ArrayList<>();
@@ -187,19 +215,55 @@ public class ExamTokenizer {
 
     public void printmulti(ArrayList<Integer> indices) {
         //indices = new ArrayList<>();
+        /*{
+            List<List<String>> rows = new ArrayList<>();
+            List<String> headers = Arrays.asList("Course Code", "Course Name", "Time", "Date", "Day", "Room");
+            rows.add(headers);
 
-        List<List<String>> rows = new ArrayList<>();
-        List<String> headers = Arrays.asList("Course Code", "Course Name", "Time", "Date", "Day", "Room");
-        rows.add(headers);
+            Iterator<Integer> itr = indices.iterator();
+            for (int i : indices) {
 
-        Iterator<Integer> itr = indices.iterator();
-        for (int i : indices) {
+                rows.add(Arrays.asList(_CourseCode.get(i), _CourseName.get(i), _CourseTime.get(i), _CourseDate.get(i),
+                        _CourseDay.get(i), _CourseRooms.get(i)));
 
-            rows.add(Arrays.asList(_CourseCode.get(i), _CourseName.get(i), _CourseTime.get(i), _CourseDate.get(i),
-                    _CourseDay.get(i), _CourseRooms.get(i)));
+            }
 
+            System.out.println(formatAsTable(rows));
+        }*/
+        Iterator<Integer > itr = indices.iterator();
+        String[] columns = {"Course Code", "Course Name", "Time", "Date", "Day", "Room"};
+        String[][] data = new String[indices.size()][6];
+        int x = 0;
+        for (int i = 0; i < indices.size(); i++) {      //row
+            if (itr.hasNext())
+                x= itr.next();
+            for (int j = 0; j < 6; j++) {   // Info of row
+                switch (j) {
+                    case 0 -> data[i][j] = _CourseCode.get(x);
+                    case 1 -> data[i][j] = _CourseCode.get(x);
+                    case 2 -> data[i][j] = _CourseTime.get(x);
+                    case 3 -> data[i][j] = _CourseDate.get(x);
+                    case 4 -> data[i][j] = _CourseDay.get(x);
+                    case 5 -> data[i][j] = _CourseRooms.get(x);
+                }
+            }
         }
+        JTable table = new JTable(data, columns);
+        JScrollPane scrollPane = new JScrollPane(table);
+        table.setFillsViewportHeight(true);
 
-        System.out.println(formatAsTable(rows));
+        final JFrame frame = new JFrame("Info");
+
+        JLabel lblHeading = new JLabel("list of Exams");
+        lblHeading.setFont(new Font("Arial",Font.TRUETYPE_FONT,18));
+
+        frame.getContentPane().setLayout(new BorderLayout());
+
+        frame.getContentPane().add(lblHeading,BorderLayout.PAGE_START);
+        frame.getContentPane().add(scrollPane,BorderLayout.CENTER);
+
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setSize(550, 200);
+        frame.setVisible(true);
     }
 }

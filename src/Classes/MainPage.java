@@ -69,6 +69,7 @@ public class MainPage implements ActionListener {
 
             if (isChecked) {    //Multiple Courses
                 // Analyze
+                objkt.getTokens(TF_Code,TF_Name);
                 /*look code || Name*/
 
             } else {            // Single Course
