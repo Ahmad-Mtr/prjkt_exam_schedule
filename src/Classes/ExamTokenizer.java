@@ -270,6 +270,7 @@ public class ExamTokenizer {
         lblHeading.setForeground(ColsHolder.getForeground_());
         table.setBackground(ColsHolder.getBackground_());
         table.setForeground(ColsHolder.getForeground_());
+        table.setGridColor(Color.DARK_GRAY);
 
         frame.getContentPane().setLayout(new BorderLayout());
 
@@ -311,6 +312,7 @@ public class ExamTokenizer {
         lblHeading.setForeground(ColsHolder.getForeground_());
         table.setBackground(ColsHolder.getBackground_());
         table.setForeground(ColsHolder.getForeground_());
+        table.setGridColor(Color.DARK_GRAY);
 
         frame.getContentPane().setLayout(new BorderLayout());
 
