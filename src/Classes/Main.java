@@ -8,7 +8,7 @@ public class Main {
 
         LP.makeframe();
         JOptionPane.showMessageDialog(LP.getFrame(), "Welcome to the Exam Finder!!\n\n" +
-                "For single Course, You can search by typing the Course Code OR by typing its Name only.\n" +
+                "For single Course, You can search by typing the Course Code AND by typing its Name only (No need for the full name).\n" +
                 "(For multiple Courses, enable the check box)\nEnjoy!");
     }
 }

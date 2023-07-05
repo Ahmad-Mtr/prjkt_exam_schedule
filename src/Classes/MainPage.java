@@ -12,7 +12,7 @@ public class MainPage implements ActionListener {
     private JLabel L_CourseCode, L_CourseName;
     private JTextField TF_CourseCode, TF_CourseName;
     private JButton FindInfo, ShowAllCourses;
-    private JCheckBox c1 = new JCheckBox("Search Multiple Courses(seperate with\",\" only!!) Exp: CS116,CS201", false);
+    private JCheckBox c1 = new JCheckBox("Search Multiple Courses (separate with\",\" only!!) Exp: CS116,CS201", false);
 
     public void makeframe() {
         frame = new JFrame("Exam Finder");
@@ -46,7 +46,6 @@ public class MainPage implements ActionListener {
         panel.add(c1);
         panel.add(x1);
 
-
         frame.getContentPane().add(panel);
         frame.setLayout(new FlowLayout());
         frame.setSize(500, 300);
@@ -66,20 +65,17 @@ public class MainPage implements ActionListener {
             String TF_Code = TF_CourseCode.getText(), TF_Name = TF_CourseName.getText();
             boolean isChecked = c1.isSelected();
 
-
             if (isChecked) {    //Multiple Courses
                 // Analyze
-                objkt.getTokens(TF_Code,TF_Name);
-                /*look code || Name*/
+                objkt.getTokens(TF_Code, TF_Name);
+                /*look code || Name  ^  */
 
             } else {            // Single Course
                 /*look code || Name*/
-                objkt.find(TF_Code,TF_Name);
-
-
+                objkt.find(TF_Code, TF_Name);
             }
         } else if (e.getSource() == ShowAllCourses) {
-            // JOptionPane.showMessageDialog(frame, printCourses());    // try in a form
+            objkt.showCourses();
         }
     }
 }
