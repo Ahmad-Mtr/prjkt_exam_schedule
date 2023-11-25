@@ -12,15 +12,3 @@ public class Main {
                 "(For multiple Courses, enable the check box)\nEnjoy!");
     }
 }
-
-"CS415\tSystems Programming\t08:30-10:30\t21-01-2023,Sat\tM424+M426"\n
-"CS415\tSystems Programming\t08:30-10:30\t21-01-2023 , Sat\tM424+M426"\n
-"CS415\tSystems Programming\t08:30-10:30\t21-01-2023 , Sat\tM424+M426"\n
-
-        Delim('\t\n,');
-String X[] = Tokenize.add('CS223\tData Structures');
-X[0] = CS223 ;
-X[1] = Data Structures;
-X[2] =;
-X[3] =;
-X[4] =
