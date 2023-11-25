@@ -137,7 +137,7 @@ public class ExamTokenizer {
         str = "";
         String y;
         try {
-            FR = new FileReader("src/Data/Exams2022_2023.txt");
+            FR = new FileReader("src/Data/Exams2023_mid.txt" );
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
